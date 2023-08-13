@@ -3,8 +3,7 @@ Solving exercises from the book "Algorithms (4th Edition)" by Robert Sedgewick (
 
 ---
 
-In this repository, the exercise numbers correspond to the Russian language edition 
-of the book from the 2013 edition.
+In this repository, the exercise numbers are in the order in which they appear in the 2013 Russian-language edition of the book.
 
 
 ISBN 978-5-8459-1781-2 (Russian)<br>
