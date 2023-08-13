@@ -9,7 +9,7 @@ of the book from the 2013 edition.
 
 ISBN 978-5-8459-1781-2 (Russian)<br>
 ISBN 978-0-321-57351-3 (English)
-<a href="url"><img src="src/main/resources/cover.png" align="right" height="800" width="600"></a>
+<a href="url"><img src="src/main/resources/cover.png" align="right" height="600" width="400"></a>
 
 * <a href = "https://github.com/savra/AlgorithmsByRobertSedgewickAndKevinWayne/tree/master/src/main/java/com/hvdbs/savra/algorithmsbyrobertsedgewickandkevinwayne/Chapter1">Chapter 1</a>
   * Unit 1
