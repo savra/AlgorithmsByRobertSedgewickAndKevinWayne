@@ -5,7 +5,7 @@ Solving exercises from the book "Algorithms (4th Edition)" by Robert Sedgewick (
 
 In this repository, the exercise numbers are in the order in which they appear in the 2013 Russian-language edition of the book.
 
-**If you find an error, you can make a pull request or issue.**
+❗️❗️❗️**If you find an error, you can make a pull request or issue.**
 
 ISBN 978-5-8459-1781-2 (Russian)<br>
 ISBN 978-0-321-57351-3 (English)
