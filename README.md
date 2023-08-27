@@ -13,6 +13,8 @@ ISBN 978-0-321-57351-3 (English)
 
 * <a href = "https://github.com/savra/AlgorithmsByRobertSedgewickAndKevinWayne/tree/master/src/main/java/com/hvdbs/savra/algorithmsbyrobertsedgewickandkevinwayne/Chapter1">Chapter 1</a>
   * <a href = "https://github.com/savra/AlgorithmsByRobertSedgewickAndKevinWayne/tree/master/src/main/java/com/hvdbs/savra/algorithmsbyrobertsedgewickandkevinwayne/Chapter1/Unit1">Unit 1</a>
+    * Exercises: <a href = "https://github.com/savra/AlgorithmsByRobertSedgewickAndKevinWayne/blob/master/src/main/java/com/hvdbs/savra/algorithmsbyrobertsedgewickandkevinwayne/Chapter1/Unit1/Task_01.java">1.1.1</a>, 
+    1.1.2, 1.1.3, 1.1.4, 1.1.5, 1.1.6, 1.1.7, 1.1.8, 1.1.9, 1.1.10
   * Unit 2
   * Unit 3
   * Unit 4
