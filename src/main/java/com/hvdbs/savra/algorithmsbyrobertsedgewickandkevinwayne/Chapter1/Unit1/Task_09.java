@@ -5,10 +5,10 @@ package com.hvdbs.savra.algorithmsbyrobertsedgewickandkevinwayne.Chapter1.Unit1;
 */
 public class Task_09 {
     public static void main(String[] args) {
-        System.out.println(toBinaryString(76));
-        System.out.println(toBinaryString(77));
-        System.out.println(toBinaryString(145));
-        System.out.println(toBinaryString(763));
+        System.out.println("Binary representation of a integer 76 = " + toBinaryString(76));
+        System.out.println("Binary representation of a integer 77 = " + toBinaryString(77));
+        System.out.println("Binary representation of a integer 145 = " + toBinaryString(145));
+        System.out.println("Binary representation of a integer 763 = " + toBinaryString(763));
     }
 
     private static String toBinaryString(int N) {
