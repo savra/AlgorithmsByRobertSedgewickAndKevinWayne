@@ -39,5 +39,9 @@ public class Task_11 {
 
 /*
 Result:
-
+  0 1 2 3
+0 * *   *
+1 *   * *
+2 * *   *
+3   *
 */
