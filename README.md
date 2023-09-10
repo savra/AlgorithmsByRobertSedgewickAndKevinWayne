@@ -26,6 +26,7 @@ ISBN 978-0-321-57351-3 (English)
     <a href = "https://github.com/savra/AlgorithmsByRobertSedgewickAndKevinWayne/blob/master/src/main/java/com/hvdbs/savra/algorithmsbyrobertsedgewickandkevinwayne/Chapter1/Unit1/Task_10.java">1.1.10</a>
     <a href = "https://github.com/savra/AlgorithmsByRobertSedgewickAndKevinWayne/blob/master/src/main/java/com/hvdbs/savra/algorithmsbyrobertsedgewickandkevinwayne/Chapter1/Unit1/Task_11.java">1.1.11</a>
     <a href = "https://github.com/savra/AlgorithmsByRobertSedgewickAndKevinWayne/blob/master/src/main/java/com/hvdbs/savra/algorithmsbyrobertsedgewickandkevinwayne/Chapter1/Unit1/Task_12.java">1.1.12</a>
+    <a href = "https://github.com/savra/AlgorithmsByRobertSedgewickAndKevinWayne/blob/master/src/main/java/com/hvdbs/savra/algorithmsbyrobertsedgewickandkevinwayne/Chapter1/Unit1/Task_13.java">1.1.13</a>
     * Creative problems:
     * Experiments:
   * Unit 2
