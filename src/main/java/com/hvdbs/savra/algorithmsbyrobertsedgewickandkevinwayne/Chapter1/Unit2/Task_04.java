@@ -5,7 +5,7 @@ import edu.princeton.cs.algs4.StdOut;
 /*
   ex. 1.2.4
 */
-public class Task_4 {
+public class Task_04 {
     public static void main(String[] args) {
         String string1 = "hello";
         String string2 = string1;

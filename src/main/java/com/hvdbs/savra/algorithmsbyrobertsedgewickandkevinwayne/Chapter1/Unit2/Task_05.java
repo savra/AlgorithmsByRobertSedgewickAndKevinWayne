@@ -5,7 +5,7 @@ import edu.princeton.cs.algs4.StdOut;
 /*
   ex. 1.2.5
 */
-public class Task_5 {
+public class Task_05 {
     public static void main(String[] args) {
         String s = "Hello World";
         s.toUpperCase();
